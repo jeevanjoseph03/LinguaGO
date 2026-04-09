@@ -1,0 +1,16 @@
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual envs
+.venv/
+venv/
+
+# Environment files (do not commit secrets)
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
