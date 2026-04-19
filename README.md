@@ -53,3 +53,4 @@ By default the UI calls `http://127.0.0.1:8000`. To override:
 - Do not commit secrets. Keep `LinguaGO-Backend/.env` and `linguago-ui/.env` local only.
 - If you already committed a key, rotate it and remove it from git history before pushing.
 - .
+
